@@ -1,0 +1,3 @@
+[submodule "Bundles/Python.tmbundle"]
+	path = Bundles/Python.tmbundle
+	url = git@github.com:welinder/python.tmbundle.git
