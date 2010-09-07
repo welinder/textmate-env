@@ -1,6 +1,6 @@
 [submodule "Bundles/Python.tmbundle"]
 	path = Bundles/Python.tmbundle
-	url = git@github.com:welinder/python.tmbundle.git
+	url = http://github.com/welinder/python.tmbundle.git
 [submodule "Bundles/Matlab.tmbundle"]
 	path = Bundles/Matlab.tmbundle
 	url = http://github.com/textmate/matlab.tmbundle.git
