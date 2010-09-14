@@ -4,3 +4,6 @@
 [submodule "Bundles/Matlab.tmbundle"]
 	path = Bundles/Matlab.tmbundle
 	url = http://github.com/textmate/matlab.tmbundle.git
+[submodule "Bundles/lisp.tmbundle"]
+	path = Bundles/lisp.tmbundle
+	url = http://github.com/textmate/lisp.tmbundle.git
