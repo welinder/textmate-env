@@ -7,3 +7,6 @@
 [submodule "Bundles/lisp.tmbundle"]
 	path = Bundles/lisp.tmbundle
 	url = http://github.com/textmate/lisp.tmbundle.git
+[submodule "Bundles/CMake.tmbundle"]
+	path = Bundles/CMake.tmbundle
+	url = http://github.com/textmate/cmake.tmbundle.git
