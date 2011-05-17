@@ -10,3 +10,6 @@
 [submodule "Bundles/CMake.tmbundle"]
 	path = Bundles/CMake.tmbundle
 	url = http://github.com/textmate/cmake.tmbundle.git
+[submodule "Bundles/html5.tmbundle"]
+	path = Bundles/html5.tmbundle
+	url = https://github.com/johnmuhl/html5.tmbundle.git
